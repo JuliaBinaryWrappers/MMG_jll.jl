@@ -1,0 +1,143 @@
+[[MMG]]
+arch = "aarch64"
+git-tree-sha1 = "5d5fcb3da4afd972cdf22b4f4e6f05fc7ae6db98"
+os = "macos"
+
+    [[MMG.download]]
+    sha256 = "28028aac1ccb05d4b62a5897953620304451004912ba7bdf5d59b5cb9dc2cf22"
+    url = "https://github.com/JuliaBinaryWrappers/MMG_jll.jl/releases/download/MMG-v5.6.0+0/MMG.v5.6.0.aarch64-apple-darwin.tar.gz"
+[[MMG]]
+arch = "aarch64"
+git-tree-sha1 = "4c6837236c7d4dffcc2d8d52bb81497a667d257b"
+libc = "glibc"
+os = "linux"
+
+    [[MMG.download]]
+    sha256 = "6c412d8fd7252d3388b7441175b7cc9dc6a0dcaffe2021c51d81d0ceb08b93c3"
+    url = "https://github.com/JuliaBinaryWrappers/MMG_jll.jl/releases/download/MMG-v5.6.0+0/MMG.v5.6.0.aarch64-linux-gnu.tar.gz"
+[[MMG]]
+arch = "aarch64"
+git-tree-sha1 = "9725cd8f0e6b5f40e1bff022937060ca02196e52"
+libc = "musl"
+os = "linux"
+
+    [[MMG.download]]
+    sha256 = "15b8f79f45b7d33b1aeadea9bf3110616c9d1b405fdbaba4b53360796d69b46a"
+    url = "https://github.com/JuliaBinaryWrappers/MMG_jll.jl/releases/download/MMG-v5.6.0+0/MMG.v5.6.0.aarch64-linux-musl.tar.gz"
+[[MMG]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b94e02cde9c05c8de5361b9c5848acdb7daf2f11"
+libc = "glibc"
+os = "linux"
+
+    [[MMG.download]]
+    sha256 = "7bb449d5f18498e5519591ce050e0648bf4f6fb553b5fbca86ea4280d8e6dff5"
+    url = "https://github.com/JuliaBinaryWrappers/MMG_jll.jl/releases/download/MMG-v5.6.0+0/MMG.v5.6.0.armv6l-linux-gnueabihf.tar.gz"
+[[MMG]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "787fafaec7f16dc04860612b6d8d8f9ef24bf658"
+libc = "musl"
+os = "linux"
+
+    [[MMG.download]]
+    sha256 = "d70d975b3f65ad8feb6e98f4003a72d8c0d41f545675c8e25e0ec1b986d9b9bf"
+    url = "https://github.com/JuliaBinaryWrappers/MMG_jll.jl/releases/download/MMG-v5.6.0+0/MMG.v5.6.0.armv6l-linux-musleabihf.tar.gz"
+[[MMG]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "155eca9a222bf8fa09c22cc64263812e8c3cadf2"
+libc = "glibc"
+os = "linux"
+
+    [[MMG.download]]
+    sha256 = "e0cfcc3de3aec77dd99639869ced8fb4fb235e3a798b66b1450daa91b5eae33f"
+    url = "https://github.com/JuliaBinaryWrappers/MMG_jll.jl/releases/download/MMG-v5.6.0+0/MMG.v5.6.0.armv7l-linux-gnueabihf.tar.gz"
+[[MMG]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b2b0cb0fe0d48eca740cd5d8f492be543941ec04"
+libc = "musl"
+os = "linux"
+
+    [[MMG.download]]
+    sha256 = "868e057b9f1aca87d70610275021b5ddf94e759714aacde7aeb2194423891943"
+    url = "https://github.com/JuliaBinaryWrappers/MMG_jll.jl/releases/download/MMG-v5.6.0+0/MMG.v5.6.0.armv7l-linux-musleabihf.tar.gz"
+[[MMG]]
+arch = "i686"
+git-tree-sha1 = "186d71ffb0b24d6d3542b6725556f744a57b1cc8"
+libc = "glibc"
+os = "linux"
+
+    [[MMG.download]]
+    sha256 = "04a0b38297f498d2f297381f9d77be773553e525ffa291e2e00c2ee902617398"
+    url = "https://github.com/JuliaBinaryWrappers/MMG_jll.jl/releases/download/MMG-v5.6.0+0/MMG.v5.6.0.i686-linux-gnu.tar.gz"
+[[MMG]]
+arch = "i686"
+git-tree-sha1 = "44f16a06c7acd79f450af811cdc74a78ba941734"
+libc = "musl"
+os = "linux"
+
+    [[MMG.download]]
+    sha256 = "bdfe54eea6f87a4256bc03f0c04f3d00cbd43faeba7438e30ad7efd356837485"
+    url = "https://github.com/JuliaBinaryWrappers/MMG_jll.jl/releases/download/MMG-v5.6.0+0/MMG.v5.6.0.i686-linux-musl.tar.gz"
+[[MMG]]
+arch = "i686"
+git-tree-sha1 = "3c669d0a735afebc41ba31caa68ce457915604bb"
+os = "windows"
+
+    [[MMG.download]]
+    sha256 = "16fcedde9c15fa21db1504be031187af0ea4719362c98bb1e8a1b30ced5e92e5"
+    url = "https://github.com/JuliaBinaryWrappers/MMG_jll.jl/releases/download/MMG-v5.6.0+0/MMG.v5.6.0.i686-w64-mingw32.tar.gz"
+[[MMG]]
+arch = "powerpc64le"
+git-tree-sha1 = "091cbc734e738d76922e0fc6d6bd2fd4b533438b"
+libc = "glibc"
+os = "linux"
+
+    [[MMG.download]]
+    sha256 = "d4b4e762de479338bd50a2aa1c80f617ba7de12ed3c80f10a0ffaf69f8cd61a3"
+    url = "https://github.com/JuliaBinaryWrappers/MMG_jll.jl/releases/download/MMG-v5.6.0+0/MMG.v5.6.0.powerpc64le-linux-gnu.tar.gz"
+[[MMG]]
+arch = "x86_64"
+git-tree-sha1 = "ef8931d0d3ba3d4a59f3815ed5aa2e35524fde3e"
+os = "macos"
+
+    [[MMG.download]]
+    sha256 = "63e7f2c16e6669c87cacea2e80d144676332e825a0a694e6e24a4cfc8754162a"
+    url = "https://github.com/JuliaBinaryWrappers/MMG_jll.jl/releases/download/MMG-v5.6.0+0/MMG.v5.6.0.x86_64-apple-darwin.tar.gz"
+[[MMG]]
+arch = "x86_64"
+git-tree-sha1 = "bc2d1cdbb0f020f976dd64466e4da13eecf28f31"
+libc = "glibc"
+os = "linux"
+
+    [[MMG.download]]
+    sha256 = "f5d9a37e6051ac9c9f88e54e2ce136d48746dcac86469d4c45a868552a2cb784"
+    url = "https://github.com/JuliaBinaryWrappers/MMG_jll.jl/releases/download/MMG-v5.6.0+0/MMG.v5.6.0.x86_64-linux-gnu.tar.gz"
+[[MMG]]
+arch = "x86_64"
+git-tree-sha1 = "aef11375d0c92b206205db0e78cad9bf533ea452"
+libc = "musl"
+os = "linux"
+
+    [[MMG.download]]
+    sha256 = "f5c94d6dfb2636827ce4d2c5deeeac32653690f2ecc6b5e37b41e8b1edede762"
+    url = "https://github.com/JuliaBinaryWrappers/MMG_jll.jl/releases/download/MMG-v5.6.0+0/MMG.v5.6.0.x86_64-linux-musl.tar.gz"
+[[MMG]]
+arch = "x86_64"
+git-tree-sha1 = "21289c577a8e0837637dc1e547ab2c191559dfa6"
+os = "freebsd"
+
+    [[MMG.download]]
+    sha256 = "f0966a43c24661a05ca897a04beeac4464a731b0e187f1fa9947088ca1e2f089"
+    url = "https://github.com/JuliaBinaryWrappers/MMG_jll.jl/releases/download/MMG-v5.6.0+0/MMG.v5.6.0.x86_64-unknown-freebsd.tar.gz"
+[[MMG]]
+arch = "x86_64"
+git-tree-sha1 = "0510c0c71f01ac2fc8f6c470b59901702571a38b"
+os = "windows"
+
+    [[MMG.download]]
+    sha256 = "ff600a5f6232347c6059fcbcbc00a22264d25882441ac54d1f2815ce04bff64a"
+    url = "https://github.com/JuliaBinaryWrappers/MMG_jll.jl/releases/download/MMG-v5.6.0+0/MMG.v5.6.0.x86_64-w64-mingw32.tar.gz"
